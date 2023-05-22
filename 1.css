@@ -1,0 +1,24 @@
+body {
+            background-color: aqua;
+            margin: auto;
+}
+        #title {
+            text-align: center;
+            font-size: 8vh;
+        }
+        #caption {
+            font-size: 2vw;
+            font-family:Sans-serif;
+            color: yellow;
+            border: 1px solid black;
+            border-color:black;
+            margin: 20px 45px 70px 50px;
+            background-color:black;
+		}
+       
+        #image {
+            display: block;
+            margin: auto;
+            width: 18%;
+         border-radius: 50%;
+        }
